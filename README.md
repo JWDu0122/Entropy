@@ -1,0 +1,1 @@
+This file is the measurements of skin temperature, entropy and physiological data of participants while performing graded cycling, a total of 40 participants were included, physiological data include, oxygen consumption, heart rate, ventilation, respiratory exchange ratio. This file is now available for review only.
